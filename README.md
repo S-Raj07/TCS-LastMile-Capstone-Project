@@ -1,5 +1,6 @@
 # TCS-LastMile-Capstone-Project
-# 📘 CampusConnect – Phase 1: Problem Understanding & Industry Analysis
+# 🎓 CampusConnect – Unified Admissions, Learning, and Alumni Management
+### Phase 1: Problem Understanding & Industry Analysis
 
 ## 🎯 Overview
 CampusConnect is a Salesforce-based capstone project designed to solve challenges in **student lifecycle management** for educational institutions.  
@@ -37,7 +38,7 @@ Modern universities and EdTech companies are adopting **CRM solutions** to:
 ---
 
 ## 📌 Next Steps
-👉 Move to **Phase 2: Org Setup & Configuration** where we will:  
-- Create a Salesforce Org.  
-- Configure roles and profiles for Students, Faculty, Admissions, Alumni, and Admin.  
-- Prepare the base environment for data modeling.  
+Move to **Phase 2: Org Setup & Configuration**, which includes:  
+- Creating a Salesforce Org.  
+- Configuring roles and profiles for Students, Faculty, Admissions, Alumni, and Admin.  
+- Preparing the base environment for data modeling.
