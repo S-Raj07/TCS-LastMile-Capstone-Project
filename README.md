@@ -1,4 +1,11 @@
 # TCS-LastMile-Capstone-Project
+
+Name: Sushanthi Raj
+College: Dayananda Sagar College Of Engineering
+Linkedin Profile: https://www.linkedin.com/in/sushanthi-raj-a43779262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Batch : 5
+
+
 🌍 Phase 1: Problem Understanding & Industry Analysis
 
 📌 Project: GreenForce – Carbon Footprint & Sustainability Management Platform on Salesforce
