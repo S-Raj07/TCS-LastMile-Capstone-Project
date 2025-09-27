@@ -1,5 +1,6 @@
 # TCS-LastMile-Capstone-Project
 🌍 Phase 1: Problem Understanding & Industry Analysis
+
 📌 Project: GreenForce – Carbon Footprint & Sustainability Management Platform on Salesforce
 1. Introduction
 
@@ -76,5 +77,104 @@ Deliver real-time dashboards and AI-driven insights.
 7. Conclusion
 
 Phase 1 defined the problem, industry trends, and gaps in existing solutions. GreenForce is positioned to be a unique Salesforce-based sustainability management platform that empowers businesses to achieve compliance, transparency, and engagement in their sustainability journey.
-## 📌 Next Steps
-Move to **Phase 2: Org Setup & Configuration**, 
+
+🌍 Phase 2: Org Setup & Configuration
+
+This phase focuses on setting up the Salesforce Developer Org and configuring the foundation for the GreenForce app.
+
+Steps:
+
+Create Developer Org
+
+Sign up at Salesforce Developer
+.
+
+Activate and log in.
+
+Company Branding
+
+Setup → Company Information → Update company name/logo to GreenForce.
+
+Setup → Apps → App Manager → New Lightning App → Name: GreenForce Sustainability Platform.
+
+Users
+
+Setup → Users → New User → Add Sustainability Manager, Analyst, Supplier, Employee.
+
+Roles & Profiles
+
+Setup → Roles → Define hierarchy:
+
+Sustainability Manager
+
+Analyst
+
+Supplier
+
+Employee
+
+Clone Standard User Profile → Customize permissions.
+
+Create Permission Sets for granular access (e.g., Supplier Read-Only).
+
+🗂️ Phase 3: Data Modeling & Relationships
+
+This phase defines the data architecture for GreenForce using Salesforce custom objects and relationships.
+
+Custom Objects:
+
+Initiatives → Sustainability projects and campaigns.
+
+Carbon Emissions → Tracks Scope 1, 2, 3 emissions.
+
+Energy Usage → Renewable & non-renewable energy.
+
+Waste Management → Recycling, landfill, hazardous waste.
+
+Travel & Commute → Business travel, employee commuting.
+
+Stakeholder Engagement → Employee/supplier activity.
+
+Example Relationships:
+
+Carbon Emissions → Master-Detail with Initiatives.
+
+Energy Usage → Lookup to Initiatives.
+
+Travel & Commute → Lookup to Employee.
+
+Stakeholder Engagement → Lookup to Employee/Supplier.
+
+⚡ Phase 4: Process Automation (Admin)
+
+This phase automates sustainability workflows using Salesforce automation tools.
+
+Tools Used:
+
+Flows (Record-Triggered, Scheduled, Screen Flows).
+
+Approval Processes for initiatives.
+
+Email Alerts & Notifications for compliance reminders.
+
+Key Automations:
+
+Carbon Data Submission Flow → Validates supplier data & notifies Analyst.
+
+Sustainability Initiative Approval → Routed to Manager for approval/rejection.
+
+Employee Engagement Automation → Awards points & recognition emails.
+
+Scheduled Monthly Reports → Auto-generate emission reports for management.
+
+Compliance Reminders → Notify suppliers 7 days before deadlines.
+
+Business Value:
+
+✅ Efficiency → Reduces manual work.
+
+✅ Compliance → Meets ESG regulations.
+
+✅ Engagement → Involves employees & suppliers.
+
+✅ Accuracy → Prevents incomplete/incorrect submissions.
