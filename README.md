@@ -188,3 +188,105 @@ Business Value:
 ✅ Engagement → Involves employees & suppliers.
 
 ✅ Accuracy → Prevents incomplete/incorrect submissions.
+
+
+
+### Phase 5: Apex Programming (Developer)
+
+**Objective:** Implement backend logic and automation using Apex. 
+
+**Key Tasks:**  
+
+- Create **Apex classes** for CRUD operations on `Emission_Record__c` and other custom objects.
+  
+- Implement **Triggers** for automated actions.
+   
+- Develop **Batch Apex jobs** for scheduled processing of large datasets.
+   
+- Write **Test Classes** to meet Salesforce deployment requirements.  
+
+**Outcome:** Automated, reliable backend operations and custom business logic.
+
+---
+
+
+### Phase 6: User Interface Development
+
+**Objective:** Design a user-friendly interface for internal users and external stakeholders.  
+
+**Key Tasks:**  
+
+- Customize **Lightning Pages** for Salesforce objects.
+  
+- Build **Lightning Web Components (LWC)** for interactive UI.
+  
+- Ensure mobile responsiveness and accessibility.
+  
+- Add **Validation Rules** to enforce data quality.  
+
+**Outcome:** Intuitive and interactive UI for seamless data entry, review, and management.
+
+---
+
+### Phase 7: Integration & External Access
+
+**Objective:** Enable secure interaction between Salesforce and external systems. 
+
+**Key Tasks:**  
+
+- Create **Connected Apps** for API access.
+   
+- Expose **REST APIs** for external apps and IoT devices.
+  
+- Set up **Platform Events** for real-time data updates.
+  
+- Provide **external portals** via Experience Cloud or Salesforce Sites.
+  
+- Implement **security measures** like OAuth, field-level permissions, and IP whitelisting.  
+
+**Outcome:** External systems can securely send and receive data from Salesforce in real-time.
+
+---
+
+### Phase 8: Data Management & Deployment
+
+**Objective:** Ensure data integrity, migration, and seamless deployment.  
+
+**Key Tasks:**  
+
+- Use **Data Loader / ETL tools** for historical data migration.
+  
+- Implement **Data Validation Rules** and duplicate management.
+    
+- Configure **Sandboxes** for testing before production.
+  
+- Deploy metadata using **Change Sets / Salesforce CLI**.  
+
+**Outcome:** Clean, consistent data and reliable production deployment.
+
+---
+
+### Phase 9: Reporting, Dashboards & Security Review
+
+**Objective:** Provide actionable insights and ensure platform security.  
+
+**Key Tasks:**  
+
+- Create **Custom Reports** for emissions trends and analysis.
+  
+- Build **Dashboards** with charts, tables, and KPIs.
+   
+- Conduct **Security Review** of profiles, permission sets, and sharing rules.
+  
+- Set up **Scheduled Reports** and notifications.  
+
+**Outcome:** Data-driven insights with secure access for decision-makers.
+
+---
+
+### Phase 10: Final Presentation & Demo Day
+**Objective:** Showcasing the fully functional GreenForce platform.  
+
+
+
+
